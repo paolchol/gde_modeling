@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-title: "code and models from 'Understanding and modelling groundwater-dependent ecosystems under increased complexity: application on Northern-Italy lowland springs'"
 message: "If you use this software, please cite both the repository and the associated paper."
 authors:
-  - family-names: Colombo
-    given-names: Paolo
-repository-code: "https://github.com/paolchol/gde_modeling"
-license: Apache 2.0
-``
+- family-names: "Colombo"
+  given-names: "Paolo"
+  orcid: "https://orcid.org/0000-0003-1343-0520"
+url: "https://github.com/paolchol/gde_modeling"
+license: "Apache 2.0"
+title: "code and models from 'Understanding and modelling groundwater-dependent ecosystems under increased complexity: application on Northern-Italy lowland springs'"
