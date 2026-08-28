@@ -1,7 +1,7 @@
 # gde_modeling
 Code, models and supporting information for the article "Understanding and modelling groundwater-dependent ecosystems under increased complexity: application on Northern-Italy lowland springs"
 
-**Repository and code author**: Paolo Colombo (https://orcid.org/0000-0003-1343-0520)\
+**Repository and code author**: Paolo Colombo (https://orcid.org/0000-0003-1343-0520) \
 **Article co-authors**: Paolo Colombo $^{1,\*}$, Margherita Pirovano $^1$, Claudia Medina Montecinos $^1$, Pietro Mazzon $^1$, Luca Alberti $^1$\
 **Affiliations**:\
  $^1$ Dipartimento di Ingegneria Civile e Ambientale, Politecnico di Milano\
