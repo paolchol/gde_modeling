@@ -8,12 +8,12 @@ Code, models and supporting information for the article "Understanding and model
  $^\*$ Corresponding author, email: paolo1.colombo@polimi.it
 
  ## How to cite
-I you happen to utilize the code or models in your work, please refer to this github repository as:
+If you happen to utilize the code or models in your work, please refer to this github repository as:
 Colombo, P. (2026).
 gde_modeling (Version 1.0) [Computer software].
 GitHub. https://github.com/paolchol/gde_modeling
 
-One the article will be published I'll add the full reference for it to be cited.
+Once the article will be published I'll add the full reference for it to be cited.
 
  ## Repository structure
  - code: contains all codes utilized to calibrate and validate models and generate the article figures
