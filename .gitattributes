@@ -1,0 +1,8 @@
+*.bas linguist-vendored
+*.cls linguist-vendored
+*.frm linguist-vendored
+*.xlsx linguist-vendored
+*.gwv linguist-vendored
+*.exe linguist-vendored
+*.in linguist-vendored
+*.err linguist-vendored
