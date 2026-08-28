@@ -1,0 +1,2 @@
+model,kt,ka,sa_coeff,n,flow_out_reach,stream_depth,geom,icalc,elev,flow_diff,depth_diff,flow_perc_err,depth_perc_err,combined_perc_err
+M0,1e-05,5.5e-06,-0.5,0.08,0.049136,0.3136,nSEG,2,GNSS,0.004964000000000003,0.08640000000000003,0.0917560073937154,0.21600000000000008,0.15387800369685772

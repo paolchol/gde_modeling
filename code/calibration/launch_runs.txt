@@ -1,0 +1,11 @@
+cd C:\
+D:
+cd D:\repos\fontanile_model\runs
+conda activate maurice-env
+python Calibration_SFR_configs_sa_simplified.py
+
+cd C:\
+D:
+cd D:\repos\fontanile_model\runs
+conda activate maurice-env
+python Calibration_LAKSFR_config_sa_simplified.py

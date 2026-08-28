@@ -1,0 +1,19 @@
+Target: id_punto   Not Inside Grid
+Target: 150120152   Not Inside Grid
+Target: 150120155   Not Inside Grid
+Target: 151030234   Not Inside Grid
+Target: 151790125   Not Inside Grid
+Target: 151820350   Not Inside Grid
+Target: 151940024   Not Inside Grid
+Target: 152040123   Not Inside Grid
+Target: 152470182   Not Inside Grid
+Target: MW   Imported OK
+Target: MWH   Imported OK
+Target: Pz1   Not Inside Grid
+Target: Pz2   Not Inside Grid
+Target: Pz23e   Not Inside Grid
+Target: Pz3   Imported OK
+Target: Pz4   Imported OK
+Target: PzCavaLagoCapanna   Imported OK
+Target: PzNuovo   Imported OK
+Target: S1   Imported OK

@@ -1,0 +1,2 @@
+model,kt,ka,st_coeff,sa_coeff,n,flow_out_reach,stream_depth,geom,icalc,elev,flow_diff,depth_diff,flow_perc_err,depth_perc_err,combined_perc_err
+M0,5.5e-05,5.5e-06,-0.5,-0.5,0.08,0.050891,0.2648,nSEG,1,LIDAR,0.0032090000000000035,0.13520000000000004,0.059316081330868825,0.3380000000000001,0.19865804066543447

@@ -1,0 +1,9 @@
+# MODFLOW2000 Layer Property Flow (LPF) Package
+        50  -1.000000e+30         0
+  1
+  0
+  1.000000e+00
+ 0
+ 0
+         04.5105e-03(10e12.4)                   -1     HYDRAULIC CONDUCTIVITY Layer   1
+         04.5105e-04(10e12.4)                   -1     VERTICAL HYDRAULIC CONDUCTIVITY Layer   1

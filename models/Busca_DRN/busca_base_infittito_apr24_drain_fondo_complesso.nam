@@ -1,0 +1,13 @@
+# MODFLOW2005/NWT name file written by Groundwater Vistas
+#xll:500297.439000; yll:5031671.709000; rotation:0.000000;
+LIST 7 busca_base_infittito_apr24_drain_fondo_complesso.lst
+BAS6  1 busca_base_infittito_apr24_drain_fondo_complesso.bas
+DIS  29 busca_base_infittito_apr24_drain_fondo_complesso.dis
+LPF 11 busca_base_infittito_apr24_drain_fondo_complesso.lpf
+DRN 13 busca_base_infittito_apr24_drain_fondo_complesso.drn
+RCH 18 busca_base_infittito_apr24_drain_fondo_complesso.rch
+OC  22 busca_base_infittito_apr24_drain_fondo_complesso.oc
+PCG 19 busca_base_infittito_apr24_drain_fondo_complesso.pcg
+DATA(BINARY) 50 busca_base_infittito_apr24_drain_fondo_complesso.cbb
+DATA(BINARY) 30 busca_base_infittito_apr24_drain_fondo_complesso.hds
+DATA(BINARY) 31 busca_base_infittito_apr24_drain_fondo_complesso.ddn

@@ -1,0 +1,15 @@
+# MODFLOW2005/NWT name file written by Groundwater Vistas
+#xll:500297.439000; yll:5031671.709000; rotation:0.000000;
+LIST 7 busca_base_infittito_luglio.lst
+BAS6  1 busca_base_infittito_luglio.bas
+DIS  29 busca_base_infittito_luglio.dis
+LPF 11 busca_base_infittito_luglio.lpf
+SFR 27 busca_base_infittito_luglio.sfr
+DRN 13 busca_base_infittito_luglio.drn
+RCH 18 busca_base_infittito_luglio.rch
+OC  22 busca_base_infittito_luglio.oc
+PCG 19 busca_base_infittito_luglio.pcg
+DATA(BINARY) 50 busca_base_infittito_luglio.cbb
+DATA 54 busca_base_infittito_luglio_streamflow.dat
+DATA(BINARY) 30 busca_base_infittito_luglio.hds
+DATA(BINARY) 31 busca_base_infittito_luglio.ddn

@@ -1,0 +1,15 @@
+# MODFLOW2005/NWT name file written by Groundwater Vistas
+#xll:500297.439000; yll:5031671.709000; rotation:0.000000;
+LIST 7 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP.lst
+BAS6  1 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP.bas
+DIS  29 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP.dis
+LPF 11 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP.lpf
+SFR 27 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP.sfr
+RCH 18 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP.rch
+OC  22 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP.oc
+PCG 19 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP.pcg
+LAK 14 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP.lak
+DATA(BINARY) 50 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP.cbb
+DATA 54 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP_streamflow.dat
+DATA(BINARY) 30 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP.hds
+DATA(BINARY) 31 busca_base_infittito_lug24_sfr_icalc2_lake_quotaGNSS_NP.ddn
